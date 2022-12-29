@@ -1,6 +1,5 @@
 body {
-  max-width: 1440px;
-  margin: 20px 0px 20px 0px;
+  margin: 0px;
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit";
 }
